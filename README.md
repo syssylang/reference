@@ -78,8 +78,8 @@ Every source file is a term. File extension: ```.tr```.
 * unsigned 64-bit integer: ```nn_i64``` (```base.nn_i64.nn_i64```)
 * signed 128-bit integer: ```i128``` (```base.i128.i128```)
 * unsigned 128-bit integer: ```nn_i128``` (```base.nn_i128.nn_i128```)
-* 32-bit float integer: ```f32``` (```base.f32.f32```)
-* 64-bit float integer: ```f64``` (```base.f64.f64```)
+* 32-bit float: ```f32``` (```base.f32.f32```)
+* 64-bit float: ```f64``` (```base.f64.f64```)
 
 ### Bools
 ```bool``` (```base.bool.bool```), is enum with 2 variants
