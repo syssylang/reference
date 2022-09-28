@@ -4,6 +4,32 @@ Every source file is a term. File extension: ```.tr```.
 
 # Terms
 
+## Keywords
+
+### Strictness
+
+#### Strict
+
+#### Permissive
+
+### Uses
+
+### Moves
+
+### Mutability
+
+#### Mut
+
+#### Immut
+
+### Type substructures
+
+#### Affine
+
+#### Linear
+
+#### Relevant
+
 ## user-definable
 
 ### Functions
