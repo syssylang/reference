@@ -97,11 +97,3 @@ Every source file is a term. File extension: ```.tr```.
 
 ```str```s (```base.str.str```) are always valid UTF-8 and are usually seen in its borrowed form, &str
 * ```"abc\n"```
-
-### Voids
-
-Type ```void``` (```base.void.void```) is a type with a single value of ```nothing``` (```base.void.void.nothing```)
-
-### Nevers
-
-Type ```never``` (```base.never.never```) is a type with no values. It is used for functions that never stop.
