@@ -65,7 +65,7 @@ Every source file is a term. File extension: ```.tr```.
 * dec: ```42```
 * bin: ```0b101010```
 * hex: ```0x2A``` (UPPERCASE only)
-* float: ```42.0```, ```4.2E+1```
+* float: ```42.0```
 
 ```base``` numerical types (may vary depending on the platform):
 * signed 8-bit integer: ```i8``` (```base.i8.i8```)
@@ -88,10 +88,7 @@ Every source file is a term. File extension: ```.tr```.
 
 ### Chars
 
-```char``` (```base.char.char```) is 32-bit valid utf8 character
-* ```'a'```
-* ```'\n'```
-* ```'\u00E9'``` (hex is UPPERCASE only)
+```char``` (```base.char.char```) is 32-bit valid utf8 character: ```'a'```, ```'\n'```, ```'\u00E9'``` (hex is UPPERCASE only)
 
 ### Strs
 
