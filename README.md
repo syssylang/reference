@@ -6,12 +6,6 @@ Every source file is a term. File extension: ```.tr```.
 
 ## Keywords
 
-### Strictness
-
-#### Strict
-
-#### Permissive
-
 ### Uses
 
 ### Moves
