@@ -34,9 +34,9 @@ Every source file is a term. File extension: ```.tr```.
 
 ### Structs
 
-### Struct instances
-
 ### Enums
+
+### Variants
 
 ### Identifiers
 
