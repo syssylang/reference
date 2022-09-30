@@ -38,10 +38,6 @@ Every source file is a term. File extension: ```.tr```.
 
 ### Enums
 
-### Traits
-
-### Impls
-
 ### Identifiers
 
 ### Expressions
