@@ -24,6 +24,8 @@ Every source file is a term. File extension: ```.tr```.
 
 #### Relevant
 
+### Refines
+
 ## user-definable
 
 ### Functions
@@ -40,15 +42,7 @@ Every source file is a term. File extension: ```.tr```.
 
 ### Impls
 
-### Effects
-
-### Syntax extensions
-
-### Effectors
-
 ### Identifiers
-
-### Refinement
 
 ### Expressions
 
