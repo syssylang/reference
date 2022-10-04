@@ -8,8 +8,6 @@ Every source file is a value. File extension: ```.sy```.
 
 ### Uses
 
-### Moves
-
 ### Mutability
 
 #### Mut
